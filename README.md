@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-🔭 I’m currently working on my quantum chemistry course CHEM 3PA3!
-🌱 I’m currently learning how to use Github!
+🔭 I’m currently working on my quantum chemistry course CHEM 3PA3!\
+🌱 I’m currently learning how to use Github!\
 👯 I’m looking to collaborate on assignments and class topics
 
 <!--
